@@ -154,3 +154,4 @@ public class Wordle extends Game {
             e.printStackTrace();
         }
     }
+}
